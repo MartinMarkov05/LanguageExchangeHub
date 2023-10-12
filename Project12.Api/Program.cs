@@ -35,16 +35,12 @@ namespace Project12.Api
 
             builder.Services.AddDbContext<ProjectDbContext>((p, options) =>
                 options.UseLazyLoadingProxies()
-                    .UseSqlServer(
-                         connectionString,
-                         providerOptions =>
-                         {
-                             providerOptions.EnableRetryOnFailure(
-                                 maxRetryCount: 10,
-                                 maxRetryDelay: TimeSpan.FromSeconds(5),
-                                 errorNumbersToAdd: null);
-                             providerOptions.CommandTimeout(60);
-                         }));
+                    .UseNpgsql(connectionString,
+                        providerOptions =>
+                        {
+                            providerOptions.EnableRetryOnFailure(10, TimeSpan.FromSeconds(5), null);
+                            providerOptions.CommandTimeout(60);
+                        }));
 
             builder.Services.AddAuthorization();
 

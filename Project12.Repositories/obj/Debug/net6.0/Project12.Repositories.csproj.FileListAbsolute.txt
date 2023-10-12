@@ -12,3 +12,17 @@ D:\PMG\12_class\12 class\СофтуерноИнж\Project12\Project12\Project12.
 D:\PMG\12_class\12 class\СофтуерноИнж\Project12\Project12\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.pdb
 D:\PMG\12_class\12 class\СофтуерноИнж\Project12\Project12\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.genruntimeconfig.cache
 D:\PMG\12_class\12 class\СофтуерноИнж\Project12\Project12\Project12.Repositories\obj\Debug\net6.0\ref\Project12.Repositories.dll
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.csproj.AssemblyReference.cache
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.AssemblyInfoInputs.cache
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.AssemblyInfo.cs
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.csproj.CoreCompileInputs.cache
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.dll
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\refint\Project12.Repositories.dll
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.pdb
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\bin\Debug\net6.0\Project12.Repositories.deps.json
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\bin\Debug\net6.0\Project12.Repositories.runtimeconfig.json
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\bin\Debug\net6.0\Project12.Repositories.dll
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\bin\Debug\net6.0\Project12.Repositories.pdb
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\Project12.Repositories.genruntimeconfig.cache
+D:\PMG\12_class\12 class\StudentProjects\LanguageExchangeHub\Project12.Repositories\obj\Debug\net6.0\ref\Project12.Repositories.dll

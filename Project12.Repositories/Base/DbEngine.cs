@@ -1,5 +1,4 @@
-﻿using Microsoft.Data.SqlClient;
-using MySqlConnector;
+﻿using Npgsql;
 using Project12.Repositories.Base.Contracts;
 using System.Data;
 
@@ -9,7 +8,7 @@ namespace Project12.Repositories.Base
     {
         private readonly string sqlConnectionString;
 
-        private SqlConnection connection;
+        private NpgsqlConnection connection;
         private IDbTransaction transaction;
         private int transactionCounter;
 
@@ -90,9 +89,9 @@ namespace Project12.Repositories.Base
             this.transaction = null;
         }
 
-        private SqlConnection GetMySQLConnection()
+        private NpgsqlConnection GetMySQLConnection()
         {
-            this.connection ??= new SqlConnection(this.sqlConnectionString);
+            this.connection ??= new NpgsqlConnection(this.sqlConnectionString);
             return this.connection;
         }
     }

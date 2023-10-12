@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Api\\Project12.Api.csproj": {}
+    "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Api\\Project12.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Api\\Project12.Api.csproj": {
+    "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Api\\Project12.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Api\\Project12.Api.csproj",
+        "projectUniqueName": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Api\\Project12.Api.csproj",
         "projectName": "Project12.Api",
-        "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Api\\Project12.Api.csproj",
+        "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Api\\Project12.Api.csproj",
         "packagesPath": "C:\\Users\\Vasilena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Api\\obj\\",
+        "outputPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {
-                "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj"
+              "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {
+                "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj"
               },
-              "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj": {
-                "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj"
+              "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj": {
+                "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj"
               }
             }
           }
@@ -62,10 +62,6 @@
               "target": "Package",
               "version": "[7.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.11, )"
-            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -73,6 +69,10 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {
+    "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj",
+        "projectUniqueName": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj",
         "projectName": "Project12.Repositories",
-        "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj",
+        "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj",
         "packagesPath": "C:\\Users\\Vasilena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\obj\\",
+        "outputPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -165,19 +165,15 @@
               "target": "Package",
               "version": "[7.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
             },
-            "MySqlConnector": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -200,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj": {
+    "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj",
+        "projectUniqueName": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj",
         "projectName": "Project12.Services",
-        "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj",
+        "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Services\\Project12.Services.csproj",
         "packagesPath": "C:\\Users\\Vasilena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Services\\obj\\",
+        "outputPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -229,11 +225,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {
-                "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj"
+              "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {
+                "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj"
               },
-              "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj"
+              "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj": {
+                "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj"
               }
             }
           }
@@ -277,14 +273,14 @@
         }
       }
     },
-    "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj": {
+    "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj",
+        "projectUniqueName": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj",
         "projectName": "Project12.Utilities",
-        "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj",
+        "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj",
         "packagesPath": "C:\\Users\\Vasilena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Utilities\\obj\\",
+        "outputPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

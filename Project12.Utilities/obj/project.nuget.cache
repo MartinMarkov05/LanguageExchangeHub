@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "InV+X1vXxXMoCT8eYM7Yo+H/D0ufcDmDbWlq6Szb1AL2TYHGYPOWHoq5d0xsgR7zvCXKKui27hhBbtRIVU45EA==",
+  "dgSpecHash": "NxbnRq2BllXOlM2PvDwWf9BKcRYRf0UBRj0G++r0BUDGXWJla74MxFCKAhOwrtuLdYpMucZJBLYZw6N88xpo4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj",
+  "projectFilePath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Utilities\\Project12.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vasilena\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Vasilena\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

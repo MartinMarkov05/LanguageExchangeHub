@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {}
+    "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {
+    "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj",
+        "projectUniqueName": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj",
         "projectName": "Project12.Repositories",
-        "projectPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj",
+        "projectPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\Project12.Repositories.csproj",
         "packagesPath": "C:\\Users\\Vasilena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vasilena\\source\\repos\\MartinMarkov05\\LanguageExchangeHub\\Project12.Repositories\\obj\\",
+        "outputPath": "D:\\PMG\\12_class\\12 class\\StudentProjects\\LanguageExchangeHub\\Project12.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,19 +71,15 @@
               "target": "Package",
               "version": "[7.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
             },
-            "MySqlConnector": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
